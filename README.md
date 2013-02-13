@@ -8,6 +8,10 @@ Requires the `boxen` puppet module.
 include watts 
 ```
 
+## Required Modules
+
+None.
+
 ## Developing
 
 Write code.
